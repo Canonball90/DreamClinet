@@ -4,9 +4,9 @@ You can use the [editor on GitHub](https://github.com/Canonball90/DreamClinet/ed
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### DreamClinet+
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+DreamClinet+ is a private client by CanonBall90
 
 ```markdown
 Syntax highlighted code block
